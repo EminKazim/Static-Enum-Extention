@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\bin\Debug\netcoreapp3.1\Static, extention, enum.exe
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\bin\Debug\netcoreapp3.1\Static, extention, enum.deps.json
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\bin\Debug\netcoreapp3.1\Static, extention, enum.runtimeconfig.json
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\bin\Debug\netcoreapp3.1\Static, extention, enum.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\bin\Debug\netcoreapp3.1\Static, extention, enum.dll
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\bin\Debug\netcoreapp3.1\Static, extention, enum.pdb
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\obj\Debug\netcoreapp3.1\Static, extention, enum.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\obj\Debug\netcoreapp3.1\Static, extention, enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\obj\Debug\netcoreapp3.1\Static, extention, enum.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\obj\Debug\netcoreapp3.1\Static, extention, enum.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\obj\Debug\netcoreapp3.1\Static, extention, enum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\obj\Debug\netcoreapp3.1\Static, extention, enum.dll
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\obj\Debug\netcoreapp3.1\Static, extention, enum.pdb
+C:\Users\ASUS\source\repos\Static, extention, enum\Static, extention, enum\obj\Debug\netcoreapp3.1\Static, extention, enum.genruntimeconfig.cache
